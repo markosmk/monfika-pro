@@ -1,0 +1,39 @@
+{
+  "name": "monfika-pro",
+  "displayName": "Monfika Pro Theme",
+  "description": "Incredible theme color perfect for your case",
+  "publisher": "markosmk",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.43.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monfika",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Monfika-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/markosmk/monfika-pro.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markosmk/monfika-pro/issues"
+  },
+  "keywords": [
+    "vscode",
+    "Theme",
+    "dark",
+    "Monokai",
+    "Monfika"
+  ],
+  "author": "Markos Mk <markosmk@me.com> (http://markosmk.com)",
+  "license": "MIT"
+}
